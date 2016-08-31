@@ -2,7 +2,7 @@
 	'use strict';
 
 	angular
-		.module('rest-notificatons')
+		.module('rest-notificatons',[])
 		.config(config);
 
 	/** @ngInject */
