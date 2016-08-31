@@ -4,7 +4,7 @@
     "Diego Freitas <diego.lins.freitas@gmail.com>"
   ],
   "description": "Implements ui directives that responds to rest interactions providing loading and notifications",
-  "main": "notify.js",
+  "main": "src/main.js",
   "keywords": [
     "angular",
     "rest",
